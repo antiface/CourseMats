@@ -1,5 +1,5 @@
-Coursera Courses:
-
+Coursera Courses
+================
 * Algorithms: Design and Analysis, Part 2
 * Neural Networks for Machine Learning
 * Probabilistic Graphical Models
