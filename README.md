@@ -1,8 +1,8 @@
 CourseMats
 ==========
-* [Coursera] (https://github.com/antiface/CourseMats/tree/master/Coursera)
-* [Udacity] (https://github.com/antiface/CourseMats/tree/master/Udacity)
-* [edX] (https://github.com/antiface/CourseMats/tree/master/edX)
+* [Coursera](https://github.com/antiface/CourseMats/tree/master/Coursera)
+* [Udacity](https://github.com/antiface/CourseMats/tree/master/Udacity)
+* [edX](https://github.com/antiface/CourseMats/tree/master/edX)
 
 ##Topics/Themes:
 
@@ -41,4 +41,4 @@ CourseMats
 - Models
   - Model Thinking
 
-## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
